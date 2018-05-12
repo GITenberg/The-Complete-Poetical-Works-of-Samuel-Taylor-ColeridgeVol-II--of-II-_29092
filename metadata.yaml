@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2902
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29092#The-Complete-Poetical-Works-of-Samuel-Taylor-ColeridgeVol-II--of-II-
 gutenberg_issued: '2009-06-11'
 gutenberg_type: Text
 identifiers:
